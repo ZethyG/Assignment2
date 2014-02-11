@@ -18,6 +18,16 @@
 		8B650747189808D400D912AF /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8B650746189808D400D912AF /* Default-568h@2x.png */; };
 		8B65074A189808D400D912AF /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8B650749189808D400D912AF /* ViewController.m */; };
 		8B65074D189808D400D912AF /* ViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8B65074B189808D400D912AF /* ViewController.xib */; };
+		8E8D782F18A99F50007D7C30 /* Apple.m in Sources */ = {isa = PBXBuildFile; fileRef = 8E8D782518A99F50007D7C30 /* Apple.m */; };
+		8E8D783018A99F50007D7C30 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 8E8D782718A99F50007D7C30 /* InfoPlist.strings */; };
+		8E8D783118A99F50007D7C30 /* ViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8E8D782918A99F50007D7C30 /* ViewController.xib */; };
+		8E8D783218A99F50007D7C30 /* Fruit.m in Sources */ = {isa = PBXBuildFile; fileRef = 8E8D782C18A99F50007D7C30 /* Fruit.m */; };
+		8E8D783318A99F50007D7C30 /* GrannySmith.m in Sources */ = {isa = PBXBuildFile; fileRef = 8E8D782E18A99F50007D7C30 /* GrannySmith.m */; };
+		8E8D783718A9A103007D7C30 /* Vegetable.m in Sources */ = {isa = PBXBuildFile; fileRef = 8E8D783618A9A103007D7C30 /* Vegetable.m */; };
+		8E8D783A18A9A371007D7C30 /* Potato.m in Sources */ = {isa = PBXBuildFile; fileRef = 8E8D783918A9A371007D7C30 /* Potato.m */; };
+		8E8D783D18A9A44F007D7C30 /* Onion.m in Sources */ = {isa = PBXBuildFile; fileRef = 8E8D783C18A9A44F007D7C30 /* Onion.m */; };
+		8E8D784018A9A4E4007D7C30 /* Pumpkin.m in Sources */ = {isa = PBXBuildFile; fileRef = 8E8D783F18A9A4E4007D7C30 /* Pumpkin.m */; };
+		8E8D784218A9A94B007D7C30 /* Screen Shot 2014-02-10 at 7.41.10 PM.png in Resources */ = {isa = PBXBuildFile; fileRef = 8E8D784118A9A94B007D7C30 /* Screen Shot 2014-02-10 at 7.41.10 PM.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +47,23 @@
 		8B650748189808D400D912AF /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		8B650749189808D400D912AF /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		8B65074C189808D400D912AF /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/ViewController.xib; sourceTree = "<group>"; };
+		8E8D782418A99F50007D7C30 /* Apple.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Apple.h; sourceTree = "<group>"; };
+		8E8D782518A99F50007D7C30 /* Apple.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Apple.m; sourceTree = "<group>"; };
+		8E8D782818A99F50007D7C30 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = InfoPlist.strings; sourceTree = "<group>"; };
+		8E8D782A18A99F50007D7C30 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = ViewController.xib; sourceTree = "<group>"; };
+		8E8D782B18A99F50007D7C30 /* Fruit.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Fruit.h; sourceTree = "<group>"; };
+		8E8D782C18A99F50007D7C30 /* Fruit.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Fruit.m; sourceTree = "<group>"; };
+		8E8D782D18A99F50007D7C30 /* GrannySmith.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GrannySmith.h; sourceTree = "<group>"; };
+		8E8D782E18A99F50007D7C30 /* GrannySmith.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GrannySmith.m; sourceTree = "<group>"; };
+		8E8D783518A9A103007D7C30 /* Vegetable.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Vegetable.h; sourceTree = "<group>"; };
+		8E8D783618A9A103007D7C30 /* Vegetable.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Vegetable.m; sourceTree = "<group>"; };
+		8E8D783818A9A371007D7C30 /* Potato.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Potato.h; sourceTree = "<group>"; };
+		8E8D783918A9A371007D7C30 /* Potato.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Potato.m; sourceTree = "<group>"; };
+		8E8D783B18A9A44F007D7C30 /* Onion.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Onion.h; sourceTree = "<group>"; };
+		8E8D783C18A9A44F007D7C30 /* Onion.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Onion.m; sourceTree = "<group>"; };
+		8E8D783E18A9A4E4007D7C30 /* Pumpkin.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Pumpkin.h; sourceTree = "<group>"; };
+		8E8D783F18A9A4E4007D7C30 /* Pumpkin.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Pumpkin.m; sourceTree = "<group>"; };
+		8E8D784118A9A94B007D7C30 /* Screen Shot 2014-02-10 at 7.41.10 PM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Screen Shot 2014-02-10 at 7.41.10 PM.png"; path = "../../Desktop/Screen Shot 2014-02-10 at 7.41.10 PM.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,12 +110,28 @@
 		8B650736189808D400D912AF /* Fruit */ = {
 			isa = PBXGroup;
 			children = (
+				8E8D784118A9A94B007D7C30 /* Screen Shot 2014-02-10 at 7.41.10 PM.png */,
+				8E8D782418A99F50007D7C30 /* Apple.h */,
+				8E8D782518A99F50007D7C30 /* Apple.m */,
+				8E8D782618A99F50007D7C30 /* en.lproj */,
+				8E8D782B18A99F50007D7C30 /* Fruit.h */,
+				8E8D782C18A99F50007D7C30 /* Fruit.m */,
+				8E8D782D18A99F50007D7C30 /* GrannySmith.h */,
+				8E8D782E18A99F50007D7C30 /* GrannySmith.m */,
 				8B65073F189808D400D912AF /* AppDelegate.h */,
 				8B650740189808D400D912AF /* AppDelegate.m */,
 				8B650748189808D400D912AF /* ViewController.h */,
 				8B650749189808D400D912AF /* ViewController.m */,
 				8B65074B189808D400D912AF /* ViewController.xib */,
 				8B650737189808D400D912AF /* Supporting Files */,
+				8E8D783518A9A103007D7C30 /* Vegetable.h */,
+				8E8D783618A9A103007D7C30 /* Vegetable.m */,
+				8E8D783818A9A371007D7C30 /* Potato.h */,
+				8E8D783918A9A371007D7C30 /* Potato.m */,
+				8E8D783B18A9A44F007D7C30 /* Onion.h */,
+				8E8D783C18A9A44F007D7C30 /* Onion.m */,
+				8E8D783E18A9A4E4007D7C30 /* Pumpkin.h */,
+				8E8D783F18A9A4E4007D7C30 /* Pumpkin.m */,
 			);
 			path = Fruit;
 			sourceTree = "<group>";
@@ -105,6 +148,15 @@
 				8B650746189808D400D912AF /* Default-568h@2x.png */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		8E8D782618A99F50007D7C30 /* en.lproj */ = {
+			isa = PBXGroup;
+			children = (
+				8E8D782718A99F50007D7C30 /* InfoPlist.strings */,
+				8E8D782918A99F50007D7C30 /* ViewController.xib */,
+			);
+			path = en.lproj;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -158,7 +210,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8E8D784218A9A94B007D7C30 /* Screen Shot 2014-02-10 at 7.41.10 PM.png in Resources */,
+				8E8D783118A99F50007D7C30 /* ViewController.xib in Resources */,
 				8B65073B189808D400D912AF /* InfoPlist.strings in Resources */,
+				8E8D783018A99F50007D7C30 /* InfoPlist.strings in Resources */,
 				8B650743189808D400D912AF /* Default.png in Resources */,
 				8B650745189808D400D912AF /* Default@2x.png in Resources */,
 				8B650747189808D400D912AF /* Default-568h@2x.png in Resources */,
@@ -173,8 +228,15 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8E8D783218A99F50007D7C30 /* Fruit.m in Sources */,
+				8E8D782F18A99F50007D7C30 /* Apple.m in Sources */,
+				8E8D783A18A9A371007D7C30 /* Potato.m in Sources */,
+				8E8D783D18A9A44F007D7C30 /* Onion.m in Sources */,
+				8E8D783318A99F50007D7C30 /* GrannySmith.m in Sources */,
 				8B65073D189808D400D912AF /* main.m in Sources */,
 				8B650741189808D400D912AF /* AppDelegate.m in Sources */,
+				8E8D783718A9A103007D7C30 /* Vegetable.m in Sources */,
+				8E8D784018A9A4E4007D7C30 /* Pumpkin.m in Sources */,
 				8B65074A189808D400D912AF /* ViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -194,6 +256,22 @@
 			isa = PBXVariantGroup;
 			children = (
 				8B65074C189808D400D912AF /* en */,
+			);
+			name = ViewController.xib;
+			sourceTree = "<group>";
+		};
+		8E8D782718A99F50007D7C30 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				8E8D782818A99F50007D7C30 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		8E8D782918A99F50007D7C30 /* ViewController.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				8E8D782A18A99F50007D7C30 /* en */,
 			);
 			name = ViewController.xib;
 			sourceTree = "<group>";
@@ -298,6 +376,7 @@
 				8B650752189808D500D912AF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

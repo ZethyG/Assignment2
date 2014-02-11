@@ -13,6 +13,10 @@
 #import "Apple.h"
 #import "GrannySmith.h"
 #import "Fruit.h"
+#import "Vegetable.h"
+#import "Potato.h"
+#import "Onion.h"
+#import "Pumpkin.h"
 
 @implementation AppDelegate
 
@@ -34,6 +38,10 @@
     Fruit * aBanana = [[Fruit alloc] initWithName:@"Banana"  andShape:@"Curved" andColor:@"Yellow"];
     Fruit * aGrape = [[Fruit alloc] initWithName:@"Grape" andShape:@"Round" andColor:@"Purple"];
     
+    Vegetable * aPotato = [[Vegetable alloc] initWithName:@"Potato" andShape:@"Oval" andColor:@"Brown"];
+    Vegetable * anOnion = [[Vegetable alloc] initWithName:@"Onion" andShape:@"Round" andColor:@"White"];
+    Vegetable * aPumpkin = [[Vegetable alloc] initWithName:@"Pumpkin" andShape:@"Round" andColor:@"Orange"];
+    
     NSLog(@"%@ is %@ and %@.", [notherApple name], [notherApple shape], [notherApple color]);
     NSLog(@"%@ is %@ and %@.", [anApple name], [anApple shape], [anApple color]);
     
@@ -41,6 +49,10 @@
     NSLog(@"%@", [notherApple printSelf]);
     //NSLog(@"%@ is %@ and %@.", aBanana.name, aBanana.shape, aBanana.color);
     NSLog(@"%@ is %@ and %@.", [aGrape name], [aGrape shape], [aGrape color]);
+    
+    NSLog(@"%@ is %@ and %@.", [aPotato name], [aPotato shape], [aPotato color]);
+    NSLog(@"%@ is %@ and %@.", [anOnion name], [anOnion shape], [anOnion color]);
+    NSLog(@"%@ is %@ and %@.", [aPumpkin name], [aPumpkin shape], [aPumpkin color]);
     
 
     
